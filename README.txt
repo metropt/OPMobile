@@ -1,0 +1,1 @@
+The porject aims to control a quadcopter with OpenPilot CopterControl board.
